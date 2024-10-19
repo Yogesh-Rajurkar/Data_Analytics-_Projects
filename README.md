@@ -1,1 +1,1 @@
-# Data_Analytics-_Projects
+# Bank_Analyses-_Projects
